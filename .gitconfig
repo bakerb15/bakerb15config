@@ -1,0 +1,9 @@
+[user]
+	name = Bradley J. Baker
+	email = bakerb15@msu.edu
+[core]
+	editor = vim
+	autocrlf = input
+	safecrlf = true
+[alias]
+	lg = log --graph --pretty=format:'%Cred%h%C(yellow)%d %Cgreen%cr %Cblue%an%Creset %s' --date=relative --all
